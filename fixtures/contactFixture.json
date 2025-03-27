@@ -1,0 +1,20 @@
+{
+  "contact": {
+    "firstName": "Sichu",
+    "lastName": "Maharjan",
+    "dob": "2003-08-29",
+    "email": "sichu@gmail.com",
+    "phoneNumber": "9864333083",
+    "add1": "Dekwo Galli",
+    "add2": "Nardevi",
+    "city": "Kathmandu",
+    "state": "Bagmati",
+    "code": "44600",
+    "country": "Nepal"
+  },
+  "ContactEdit": {
+    "newFirstName": "Sanjana",
+    "newLastName": "Pujari",
+    "newEmail": "sanjana@gmail.com"
+  }
+}
